@@ -1,6 +1,6 @@
 <template>
     <div>
-        hello
+        hello srikanth
      <h2>message:{{message}}</h2>
      <h2>name:{{name}}</h2>
      <h2>number:{{number}}</h2>

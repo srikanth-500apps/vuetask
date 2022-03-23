@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-   
+   <p>hi</p>
   <stati :message="message" :name="name" ref="num" :number="number"></stati>
   <stati :message="message" :name="name" ref="numb" :number="number"></stati>
    <button @click="buttonClick()">submit</button>
